@@ -1,0 +1,34 @@
+# Collection of British Informatics Olympiad Resources
+
+This repo contains a `pdf` of all British Informatics Olympiad Questions (BIO) papers between 2006 and 2025, as well as solutions to most problems (using python) and unit tests (made using `unittest`).
+
+The official website is found at <https://olympiad.org.uk/>, and contains questions from previous years too.
+
+## Project Structure
+
+Each direcroty is named after the year of that competition. Each directory contains six files, three of them are my answers and the other three are the unittests I used (the tests are derrived from the BIO answer sheets). Each question has it's own distinctive file.
+
+## Progress
+
+| Year  | Question 1 | Question 2 | Question 3 |
+| ----- | ---------- | ---------- | ---------- |
+| 2006  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2007  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2008  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2009  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2010  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2011  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2012  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2013  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2014  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2015  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2016  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2017  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2018  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2019  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2020  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2021  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2022  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2023  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2024  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2025  | :black_square_button: | :black_square_button: | :black_square_button: |
