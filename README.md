@@ -6,14 +6,14 @@ The official website is found at <https://olympiad.org.uk/>, and contains questi
 
 ## Project Structure
 
-Each direcroty is named after the year of that competition. Each directory contains six files, three of them are my answers and the other three are the unittests I used (the tests are derrived from the BIO answer sheets). Each question has it's own distinctive file.
+Each directory is named after the year of that competition. Each directory contains six files, three of them are my answers and the other three are the unittests I used (the tests are derived from the BIO answer sheets). Each question has it's own distinctive file.
 
 ## Progress
 
 | Year  | Question 1 | Question 2 | Question 3 |
 | ----- | ---------- | ---------- | ---------- |
-| 2006  | :black_square_button: | :black_square_button: | :black_square_button: |
-| 2007  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2006  | :white_check_mark:    | :black_square_button: | :black_square_button: |
+| 2007  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2008  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2009  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2010  | :black_square_button: | :black_square_button: | :black_square_button: |
