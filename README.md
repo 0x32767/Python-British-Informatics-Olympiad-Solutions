@@ -16,7 +16,7 @@ Each directory is named after the year of that competition. Each directory conta
 | 2007  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2008  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2009  | :white_check_mark:    | :black_square_button: | :black_square_button: |
-| 2010  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2010  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2011  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2012  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2013  | :black_square_button: | :black_square_button: | :black_square_button: |
