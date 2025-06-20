@@ -29,6 +29,6 @@ Each directory is named after the year of that competition. Each directory conta
 | 2020  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2021  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2022  | :black_square_button: | :black_square_button: | :black_square_button: |
-| 2023  | :black_square_button: | :black_square_button: | :black_square_button: |
+| 2023  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2024  | :black_square_button: | :black_square_button: | :black_square_button: |
 | 2025  | :black_square_button: | :black_square_button: | :black_square_button: |
