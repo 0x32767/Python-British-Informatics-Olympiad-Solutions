@@ -10,10 +10,7 @@ class Test2006Question2(unittest.TestCase):
         self.assertEqual(solution("xddu", "8654", "2102"), ("No", "Yes"))
         self.assertEqual(solution("xuxd", "9801", "4543"), ("No", "Yes"))
         self.assertEqual(solution("xx*", "0", "2006"), ("Yes", "Yes"))
-        
-        self.assertEqual(solution("xx*u?", "56", "54322"), ("Yes", "No"))
-        # fails because pattern is read as xxxxx (u can be ignored due to `?`, debatable)
-        
+        self.assertEqual(solution("xd*u?", "56", "54322"), ("Yes", "No"))
         self.assertEqual(solution("x?x", "1", "11"), ("Yes", "Yes"))
         self.assertEqual(solution("x?x", "123", "4567"), ("No", "No"))
         self.assertEqual(solution("x*xu", "7654", "2"), ("No", "No"))

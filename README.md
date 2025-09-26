@@ -12,7 +12,7 @@ Each directory is named after the year of that competition. Each directory conta
 
 | Year  | Question 1 | Question 2 | Question 3 |
 | ----- | ---------- | ---------- | ---------- |
-| 2006  | :white_check_mark:    | :interrobang: | :black_square_button: |
+| 2006  | :white_check_mark:    | :white_check_mark: | :black_square_button: |
 | 2007  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2008  | :white_check_mark:    | :black_square_button: | :black_square_button: |
 | 2009  | :white_check_mark:    | :black_square_button: | :black_square_button: |
